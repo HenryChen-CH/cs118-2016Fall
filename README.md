@@ -1,2 +1,2 @@
 # cs118-2016Fall
-UCLA cs118, 2016 Fall
+UCLA CS118, 2016 Fall
